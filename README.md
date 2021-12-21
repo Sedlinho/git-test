@@ -6,3 +6,5 @@ README.MD
 A toto je taktiez text.
 
 Dalsia zmena
+
+README UPDATE

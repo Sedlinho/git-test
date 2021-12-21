@@ -2,3 +2,5 @@
 Test of git repository
 
 README.MD
+
+A toto je taktiez text.
